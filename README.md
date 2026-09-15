@@ -580,12 +580,7 @@ $$
 Hoof, Jaeckel & Thormaehlen give
 
 $$
-\frac{d^2\Phi^\mathrm{P}}{dE_a\,d\rho}
-=
-\frac{R_\odot^3E_a^2}{2\pi^2d_E^2}
-\int_\rho^1dr\,
-\frac{\rho r}{\sqrt{r^2-\rho^2}}
-\Gamma^\mathrm{P}(E_a,r).
+\frac{d^2\Phi^\mathrm{P}}{dE_a\,d\rho} = \frac{R_\odot^3E_a^2}{2\pi^2d_E^2} \int_\rho^1dr\, \frac{\rho r}{\sqr {r^2-\rho^2}} \Gamma^\mathrm{P}(E_a,r).
 $$
 
 See Eq. (2.3) of:
