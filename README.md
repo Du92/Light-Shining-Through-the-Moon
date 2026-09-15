@@ -344,18 +344,13 @@ $$
 with
 
 $$
-\omega_\mathrm{pl}
-=
-3.69\times10^{-11}
-\sqrt{\frac{n_e}{\mathrm{cm}^{-3}}}
-\ \mathrm{eV}.
+\omega_\mathrm{pl}= 3.69\times10^{-11} \sqrt{\frac{n_e}{\mathrm{cm}^{-3}}} \ \mathrm{eV}.
 $$
 
 The feasibility calculation uses a smooth semi-empirical density profile. Writing $r$ in Earth radii,
 
 $$
-L_\mathrm{pp}=
-\operatorname{clip}(5.6-0.46K_p,\,2.5,\,6.0),
+L_\mathrm{pp}=\operatorname{clip}(5.6-0.46K_p,\,2.5,\,6.0),
 $$
 
 $$
@@ -580,7 +575,7 @@ $$
 Hoof, Jaeckel & Thormaehlen give
 
 $$
-\frac{d^2\Phi^\mathrm{P}}{dE_a\,d\rho} = \frac{R_\odot^3E_a^2}{2\pi^2d_E^2} \int_\rho^1dr\, \frac{\rho r}{\sqr {r^2-\rho^2}} \Gamma^\mathrm{P}(E_a,r).
+\frac{d^2\Phi^\mathrm{P}}{dE_a\,d\rho} = \frac{R_\odot^3E_a^2}{2\pi^2d_E^2} \int_\rho^1dr\, \frac{\rho r}{\sqr  {r^2-\rho^2}} \Gamma^\mathrm{P}(E_a,r).
 $$
 
 See Eq. (2.3) of:
